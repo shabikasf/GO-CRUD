@@ -1,0 +1,14 @@
+{
+  "username": "shabikafathima",
+  "password": "shabs@0701",
+  "role": "admin"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InNoYWJpa2FmYXRoaW1hIiwicm9sZSI6ImFkbWluIiwiZXhwIjoxNzgwMzM5OTAyLCJpYXQiOjE3ODAyNTM1MDJ9._70r4yktf4DHwTt4cfDPCUX1u3W3v_ruJElgHBo0u5E
+
+{
+  "username": "shabikaaa",
+  "password": "shabs@0701",
+  "role": "user"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJ1c2VybmFtZSI6InNoYWJpa2FhYSIsInJvbGUiOiJ1c2VyIiwiZXhwIjoxNzgwMzQwMjM0LCJpYXQiOjE3ODAyNTM4MzR9.hWkvdp21SY8qM_tPENcC0iApgYsB8fr2hB0RdnkB0Ro
